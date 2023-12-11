@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.bac{
+    position:absolute;
+}
+.bg{
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    filter:brightness(.5);
+    position: relative;
+    bottom: 70px;
+}
+.font{
+    font-size: 14px;
+}
+.name{
+    color:white;
+    text-decoration: none;
+}
+.name:hover{
+    color: orange;
+}
+.tra:hover{
+    transform: scale(1.3);
+    transition: 0.4s;
+}
+.img{
+    bottom: 130px;
+}
+.la{
+    color:midnightblue;
+}
+.hor{
+    color:white;
+    background-color: #D5A339;
+}
+.hor:hover{
+    background-color:deepskyblue;
+}
+.back{
+    background-color: midnightblue;
+}
+.back-1{
+    background-color: red;
+}
+.back-2{
+    background-color:brown ;
+}
+.side{
+    position: relative;
+    right: 5px;
+}
+.side-1{
+    position: relative;
+    right: 10px; 
+}
+.tra-1:hover{
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+.butt{
+    background-color: #D5A339;
+    color: white;
+}
+.butt:hover{
+    background-color: darkturquoise;
+}
